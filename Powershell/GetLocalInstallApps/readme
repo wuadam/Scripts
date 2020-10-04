@@ -1,0 +1,4 @@
+# Author:  Adam Wu
+# Date:  10/3/2020:  
+
+Get-Apps-Installed.ps1 - This script retreive all local installed apps and export to a CSV file.

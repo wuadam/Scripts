@@ -1,0 +1,1 @@
+This is a sample script to remote start a process using [WMICLASS]"\\$computer\ROOT\CIMV2:win32_process
